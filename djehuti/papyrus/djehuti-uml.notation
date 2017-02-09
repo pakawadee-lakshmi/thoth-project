@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://www.eclipse.org/papyrus/infra/viewpoints/configuration" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisconfiguration="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:nattableconfiguration="http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration" xmlns:nattablestyle="http://www.eclipse.org/papyrus/nattable/model/table/nattablestyle" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis http://www.eclipse.org/papyrus/nattable/model#//nattableaxis http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model#//nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattablestyle http://www.eclipse.org/papyrus/nattable/model#//nattablestyle">
+  <notation:Diagram xmi:id="_0NLf0O7eEeaYfOHEBv9SGQ" type="UseCase" name="UseCase Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0NLf0e7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0NLf0u7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0NLf0-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0NRmcO7eEeaYfOHEBv9SGQ" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0NRmce7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0NRmcu7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0NRmc-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0N5RgO7eEeaYfOHEBv9SGQ" type="PapyrusUMLCommunicationDiagram" name="Communication Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_0N5Rge7eEeaYfOHEBv9SGQ" type="Interaction_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_0N5Rgu7eEeaYfOHEBv9SGQ" type="Interaction_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_0N5Rg-7eEeaYfOHEBv9SGQ" type="Interaction_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_0N5RhO7eEeaYfOHEBv9SGQ" x="50"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0N5Rhe7eEeaYfOHEBv9SGQ" type="Interaction_SubfragmentCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0N5Rhu7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <element xmi:type="uml:Interaction" href="djehuti-uml.uml#_0NsdMO7eEeaYfOHEBv9SGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0N5Rh-7eEeaYfOHEBv9SGQ"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0N5RiO7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0N5Rie7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0N5Riu7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Interaction" href="djehuti-uml.uml#_0NsdMO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0OEQoO7eEeaYfOHEBv9SGQ" type="PapyrusUMLDeploymentDiagram" name="Deployment Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0OEQoe7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0OEQou7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0OEQo-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0OJJIO7eEeaYfOHEBv9SGQ" type="PapyrusUMLClassDiagram" name="Inner Class Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0OJJIe7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0OJJIu7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0OJJI-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+      <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.uml.diagram.clazz/model/clazzdiagram.configuration#_zzf4YHDtEeWh-MssWmCB_A"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <nattable:Table xmi:id="_0OS6IO7eEeaYfOHEBv9SGQ" name="StereotypeDisplayTreeTable" currentRowAxisProvider="_0OS6Le7eEeaYfOHEBv9SGQ" currentColumnAxisProvider="_0OS6Iu7eEeaYfOHEBv9SGQ">
+    <styles xmi:type="nattablestyle:IntListValueStyle" xmi:id="_0OS6Ie7eEeaYfOHEBv9SGQ" name="hiddenCategoriesByDepth">
+      <intListValue>1</intListValue>
+      <intListValue>2</intListValue>
+      <intListValue>3</intListValue>
+    </styles>
+    <context xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.stereotype.display/config/stereotypeDisplay.configuration#_WC1q0P4UEeSRsNBVzfUrzA"/>
+    <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.stereotype.display/config/stereotype.nattableconfiguration#/"/>
+    <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_0OS6Iu7eEeaYfOHEBv9SGQ" description="This axis provider provides available columns according to the columns of the table ( features of the object displayed on the other axis)" name="Stereotype display properties axis provider">
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_0OS6I-7eEeaYfOHEBv9SGQ" alias="Name Depth" element="stereotype_display_properties:/nameDepth">
+        <styles xmi:type="nattablestyle:IntValueStyle" xmi:id="_0OS6JO7eEeaYfOHEBv9SGQ" name="axisWidth" intValue="100"/>
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.stereotype.display/config/stereotype.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_0OS6Je7eEeaYfOHEBv9SGQ" alias="Visible" element="stereotype_display_properties:/isDisplayed">
+        <styles xmi:type="nattablestyle:IntValueStyle" xmi:id="_0OS6Ju7eEeaYfOHEBv9SGQ" name="axisWidth" intValue="100"/>
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.stereotype.display/config/stereotype.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_0OS6J-7eEeaYfOHEBv9SGQ" alias="In Braces" element="stereotype_display_properties:/isDisplayedInBraces">
+        <styles xmi:type="nattablestyle:IntValueStyle" xmi:id="_0OS6KO7eEeaYfOHEBv9SGQ" name="axisWidth" intValue="120"/>
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.stereotype.display/config/stereotype.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_0OS6Ke7eEeaYfOHEBv9SGQ" alias="In Comment" element="stereotype_display_properties:/isDisplayedInComment">
+        <styles xmi:type="nattablestyle:IntValueStyle" xmi:id="_0OS6Ku7eEeaYfOHEBv9SGQ" name="axisWidth" intValue="120"/>
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.stereotype.display/config/stereotype.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_0OS6K-7eEeaYfOHEBv9SGQ" alias="In Compartment" element="stereotype_display_properties:/isDisplayedInCompartment">
+        <styles xmi:type="nattablestyle:IntValueStyle" xmi:id="_0OS6LO7eEeaYfOHEBv9SGQ" name="axisWidth" intValue="120"/>
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.stereotype.display/config/stereotype.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_0OS6Le7eEeaYfOHEBv9SGQ" description="This axis provider manages the rows, according to the wanted hierarchy" name="HierarchicalRowAxisManager" disconnectSlave="true"/>
+  </nattable:Table>
+  <notation:Diagram xmi:id="_0OXyoO7eEeaYfOHEBv9SGQ" type="PapyrusUMLClassDiagram" name="Package Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0OXyoe7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0OXyou7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0OXyo-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+      <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.uml.diagram.clazz/model/clazzdiagram.configuration#_zzf4cXDtEeWh-MssWmCB_A"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0PBS4O7eEeaYfOHEBv9SGQ" type="PapyrusUMLStateMachineDiagram" name="StateMachine Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_0PBS4e7eEeaYfOHEBv9SGQ" type="StateMachine_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_0PBS4u7eEeaYfOHEBv9SGQ" type="StateMachine_NameLabel">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PBS4-7eEeaYfOHEBv9SGQ" width="700" height="13"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0PBS5O7eEeaYfOHEBv9SGQ" type="StateMachine_RegionCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_0PBS5e7eEeaYfOHEBv9SGQ" type="Region_Shape">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_0PBS5u7eEeaYfOHEBv9SGQ" source="RegionAnnotationKey">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_0PBS5-7eEeaYfOHEBv9SGQ" key="RegionZoneKey" value=""/>
+          </eAnnotations>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_0PBS6O7eEeaYfOHEBv9SGQ" type="Region_SubvertexCompartment">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PBS6e7eEeaYfOHEBv9SGQ"/>
+          </children>
+          <element xmi:type="uml:Region" href="djehuti-uml.uml#_0O6lMO7eEeaYfOHEBv9SGQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PBS6u7eEeaYfOHEBv9SGQ" width="700" height="287"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PBS6-7eEeaYfOHEBv9SGQ" y="13" width="700" height="287"/>
+      </children>
+      <element xmi:type="uml:StateMachine" href="djehuti-uml.uml#_0OnqQO7eEeaYfOHEBv9SGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PBS7O7eEeaYfOHEBv9SGQ" x="30" y="30" width="700" height="300"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0PBS7e7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0PBS7u7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0PBS7-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:StateMachine" href="djehuti-uml.uml#_0OnqQO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0PHZgO7eEeaYfOHEBv9SGQ" type="CompositeStructure" name="Composite Structure Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0PHZge7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0PHZgu7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0PHZg-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0PP8YO7eEeaYfOHEBv9SGQ" type="PapyrusUMLComponentDiagram" name="Component Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0PP8Ye7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0PP8Yu7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0PP8Y-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <nattable:Table xmi:id="_0PWqEO7eEeaYfOHEBv9SGQ" name="ClassTreeTable" currentRowAxisProvider="_0PWqE-7eEeaYfOHEBv9SGQ" currentColumnAxisProvider="_0PWqEe7eEeaYfOHEBv9SGQ">
+    <context xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.clazz.config/configs/classTreeTable.configuration#_P3J1cEr7EeSVGbM3cmVSqQ"/>
+    <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.clazz.config/configs/class_synchronized_tree.nattableconfiguration#/"/>
+    <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_0PWqEe7eEeaYfOHEBv9SGQ" description="This axis provider provides available columns according to the rows of the table (features of the object displayed on the other axis)" name="UML Feature axis provider">
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_0PWqEu7eEeaYfOHEBv9SGQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.uml.nattable.clazz.config/configs/class_synchronized_tree.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_0PWqE-7eEeaYfOHEBv9SGQ" description="This axis provider manages the rows, according to the wanted hierarchy" name="HierarchicalRowaAxisManager" disconnectSlave="true"/>
+  </nattable:Table>
+  <nattable:Table xmi:id="_0PcwsO7eEeaYfOHEBv9SGQ" name="Generic Tree Table" currentRowAxisProvider="_0Pcws-7eEeaYfOHEBv9SGQ" currentColumnAxisProvider="_0Pcwse7eEeaYfOHEBv9SGQ">
+    <context xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.uml.nattable/configs/genericTreeTable.configuration#_P3J1cEr7EeSVGbM3cmVSqQ"/>
+    <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.uml.nattable/configs/genericTreeTable.nattableconfiguration#/"/>
+    <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_0Pcwse7eEeaYfOHEBv9SGQ" description="This axis provider provides available columns according to the rows of the table (features of the object displayed on the other axis)" name="UML Feature axis provider">
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_0Pcwsu7eEeaYfOHEBv9SGQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.uml.nattable/configs/genericTreeTable.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_0Pcws-7eEeaYfOHEBv9SGQ" description="This axis provider manages the rows, according to the wanted hierarchy" name="HierarchicalRowAxisManager" disconnectSlave="true"/>
+  </nattable:Table>
+  <notation:Diagram xmi:id="_0PplAO7eEeaYfOHEBv9SGQ" type="PapyrusUMLActivityDiagram" name="Activity Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_0PplAe7eEeaYfOHEBv9SGQ" type="Activity_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_0PplAu7eEeaYfOHEBv9SGQ" type="Activity_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_0PplA-7eEeaYfOHEBv9SGQ" type="Activity_KeywordLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0PplBO7eEeaYfOHEBv9SGQ" type="Activity_ParameterCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_0PplBe7eEeaYfOHEBv9SGQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_0PplBu7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PplB-7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0PplCO7eEeaYfOHEBv9SGQ" type="Activity_PreconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_0PplCe7eEeaYfOHEBv9SGQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_0PplCu7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PplC-7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0PplDO7eEeaYfOHEBv9SGQ" type="Activity_PostconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_0PplDe7eEeaYfOHEBv9SGQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_0PplDu7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PplD-7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0PplEO7eEeaYfOHEBv9SGQ" type="Activity_ActivityNodeCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PplEe7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <element xmi:type="uml:Activity" href="djehuti-uml.uml#_0PnIwO7eEeaYfOHEBv9SGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0PplEu7eEeaYfOHEBv9SGQ"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0PplE-7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0PplFO7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0PplFe7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Activity" href="djehuti-uml.uml#_0PnIwO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0Pz9EO7eEeaYfOHEBv9SGQ" type="PapyrusUMLInteractionOverviewDiagram" name="Interaction Overview Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_0Pz9Ee7eEeaYfOHEBv9SGQ" type="Activity_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_0Pz9Eu7eEeaYfOHEBv9SGQ" type="Activity_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_0Pz9E-7eEeaYfOHEBv9SGQ" type="Activity_KeywordLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0Pz9FO7eEeaYfOHEBv9SGQ" type="Activity_ParameterCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_0Pz9Fe7eEeaYfOHEBv9SGQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_0Pz9Fu7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Pz9F-7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0Pz9GO7eEeaYfOHEBv9SGQ" type="Activity_PreconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_0Pz9Ge7eEeaYfOHEBv9SGQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_0Pz9Gu7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Pz9G-7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0Pz9HO7eEeaYfOHEBv9SGQ" type="Activity_PostconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_0Pz9He7eEeaYfOHEBv9SGQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_0Pz9Hu7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Pz9H-7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0Pz9IO7eEeaYfOHEBv9SGQ" type="Activity_ActivityNodeCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Pz9Ie7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <element xmi:type="uml:Activity" href="djehuti-uml.uml#_0PvEkO7eEeaYfOHEBv9SGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Pz9Iu7eEeaYfOHEBv9SGQ"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0Pz9I-7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0Pz9JO7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0Pz9Je7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Activity" href="djehuti-uml.uml#_0PvEkO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0QFC0O7eEeaYfOHEBv9SGQ" type="PapyrusUMLSequenceDiagram" name="Sequence Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_0QFC0e7eEeaYfOHEBv9SGQ" type="Interaction_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_0QFC0u7eEeaYfOHEBv9SGQ" type="Interaction_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_0QFC0-7eEeaYfOHEBv9SGQ" type="Interaction_SubfragmentCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QFC1O7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <element xmi:type="uml:Interaction" href="djehuti-uml.uml#_0P5coO7eEeaYfOHEBv9SGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QFC1e7eEeaYfOHEBv9SGQ"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0QFC1u7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0QFC1-7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0QFC2O7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Interaction" href="djehuti-uml.uml#_0P5coO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_0QPa4O7eEeaYfOHEBv9SGQ" type="PapyrusUMLTimingDiagram" name="Timing Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_0QPa4e7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_0QPa4u7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_0QPa4-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-uml.uml#_0M7BIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+</xmi:XMI>

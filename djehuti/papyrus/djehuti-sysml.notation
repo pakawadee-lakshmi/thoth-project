@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://www.eclipse.org/papyrus/infra/viewpoints/configuration" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisconfiguration="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:nattableconfiguration="http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration" xmlns:nattablestyle="http://www.eclipse.org/papyrus/nattable/model/table/nattablestyle" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis http://www.eclipse.org/papyrus/nattable/model#//nattableaxis http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model#//nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattablestyle http://www.eclipse.org/papyrus/nattable/model#//nattablestyle">
+  <notation:Diagram xmi:id="_mEOoIO7eEeaYfOHEBv9SGQ" type="CompositeStructure" name="SysML 1.4 Internal Block" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_mEwzoO7eEeaYfOHEBv9SGQ" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_mEz28O7eEeaYfOHEBv9SGQ" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_mEz28e7eEeaYfOHEBv9SGQ" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_mEz28u7eEeaYfOHEBv9SGQ" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_mE0eAO7eEeaYfOHEBv9SGQ" type="Class_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_mE0eAe7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mE0eAu7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <element xmi:type="uml:Class" href="djehuti-sysml.uml#_kpSUIO7eEeaYfOHEBv9SGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mEwzoe7eEeaYfOHEBv9SGQ" x="40" y="40" width="500" height="250"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_mEOoIe7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_mEOoIu7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_mEOoI-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+      <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.sysml14.diagram.internalblock/resources/configuration/internalBlockDiagram.configuration#_ZrBf4JaBEeS8eNvSwD0lgA"/>
+    </styles>
+    <element xmi:type="uml:Class" href="djehuti-sysml.uml#_kpSUIO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_mFaT4O7eEeaYfOHEBv9SGQ" type="PapyrusUMLClassDiagram" name="SysML 1.4 Block Definition" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_mFaT4e7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_mFaT4u7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_mFaT4-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+      <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.sysml14.diagram.blockdefinition/resources/configuration/blockDefinitionDiagram.configuration#_ZrBf4JaBEeS8eNvSwD0lgA"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_mGAw0O7eEeaYfOHEBv9SGQ" type="CompositeStructure" name="SysML 1.4 Parametric" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_mGBX4O7eEeaYfOHEBv9SGQ" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_mGBX4u7eEeaYfOHEBv9SGQ" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_mGBX4-7eEeaYfOHEBv9SGQ" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_mGBX5O7eEeaYfOHEBv9SGQ" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_mGBX5e7eEeaYfOHEBv9SGQ" type="Class_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_mGBX5u7eEeaYfOHEBv9SGQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mGBX5-7eEeaYfOHEBv9SGQ"/>
+      </children>
+      <element xmi:type="uml:Class" href="djehuti-sysml.uml#_mFelUO7eEeaYfOHEBv9SGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mGBX4e7eEeaYfOHEBv9SGQ" x="40" y="40" width="500" height="250"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_mGAw0e7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_mGAw0u7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_mGAw0-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+      <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.sysml14.diagram.parametric/resources/configuration/parametricDiagram.configuration#_ZrBf4JaBEeS8eNvSwD0lgA"/>
+    </styles>
+    <element xmi:type="uml:Class" href="djehuti-sysml.uml#_mFelUO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <nattable:Table xmi:id="_mHQuAO7eEeaYfOHEBv9SGQ" name="SysML 1.4 Requirement Tree Table" currentRowAxisProvider="_mHQuBu7eEeaYfOHEBv9SGQ" currentColumnAxisProvider="_mHQuAu7eEeaYfOHEBv9SGQ">
+    <styles xmi:type="nattablestyle:IntListValueStyle" xmi:id="_mHQuAe7eEeaYfOHEBv9SGQ" name="hiddenCategoriesByDepth">
+      <intListValue>0</intListValue>
+      <intListValue>1</intListValue>
+      <intListValue>2</intListValue>
+      <intListValue>3</intListValue>
+      <intListValue>4</intListValue>
+    </styles>
+    <context xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+    <owner xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+    <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/configuration/requirementTable.configuration#_eXTo8CywEeaHK-6t3D9x9w"/>
+    <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirementTree.nattableconfiguration#/"/>
+    <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_mHQuAu7eEeaYfOHEBv9SGQ" description="Provides the columns of the tables with a default configuration" name="Requirements Feature Columns Provider">
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_mHQuA-7eEeaYfOHEBv9SGQ" element="property_of_stereotype:/SysML::Requirements::Requirement::id">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirementTree.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.1"/>
+      </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_mHQuBO7eEeaYfOHEBv9SGQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirementTree.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_mHQuBe7eEeaYfOHEBv9SGQ" element="property_of_stereotype:/SysML::Requirements::Requirement::text">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirementTree.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.1"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_mHQuBu7eEeaYfOHEBv9SGQ" description="This axis provider manages the rows, according to the wanted hierarchy" name="HierarchicalRowAxisManager" disconnectSlave="true"/>
+  </nattable:Table>
+  <nattable:Table xmi:id="_mHWNkO7eEeaYfOHEBv9SGQ" name="SysML 1.4 Requirement Table" currentRowAxisProvider="_mHWNle7eEeaYfOHEBv9SGQ" currentColumnAxisProvider="_mHWNke7eEeaYfOHEBv9SGQ">
+    <context xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+    <owner xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+    <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/configuration/requirementTable.configuration#_j2LQIy7uEeWklMXvaoXzgQ"/>
+    <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirement.nattableconfiguration#/"/>
+    <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_mHWNke7eEeaYfOHEBv9SGQ" description="Provides the columns of the tables with a default configuration" name="Requirements Feature Columns Provider">
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_mHWNku7eEeaYfOHEBv9SGQ" element="property_of_stereotype:/SysML::Requirements::Requirement::id">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirement.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.1"/>
+      </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_mHWNk-7eEeaYfOHEBv9SGQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirement.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_mHWNlO7eEeaYfOHEBv9SGQ" element="property_of_stereotype:/SysML::Requirements::Requirement::text">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.requirement/resources/requirement.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.1"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_mHWNle7eEeaYfOHEBv9SGQ" description="Provides the requirements directly owned by the context of the table" name="Requirement Axis Provider" disconnectSlave="true"/>
+  </nattable:Table>
+  <notation:Diagram xmi:id="_mHafAO7eEeaYfOHEBv9SGQ" type="PapyrusUMLClassDiagram" name="SysML 1.4 Requirement" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_mHafAe7eEeaYfOHEBv9SGQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_mHafAu7eEeaYfOHEBv9SGQ"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_mHafA-7eEeaYfOHEBv9SGQ">
+      <owner xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+      <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.sysml14.diagram.requirement/resources/configuration/requirementDiagram.configuration#_ZrBf4JaBEeS8eNvSwD0lgA"/>
+    </styles>
+    <element xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+  </notation:Diagram>
+  <nattable:Table xmi:id="_mHeJYO7eEeaYfOHEBv9SGQ" name="SysML 1.4 Allocation Table" currentRowAxisProvider="_mHeJZe7eEeaYfOHEBv9SGQ" currentColumnAxisProvider="_mHeJYe7eEeaYfOHEBv9SGQ">
+    <context xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+    <owner xmi:type="uml:Model" href="djehuti-sysml.uml#_kV0lkO7eEeaYfOHEBv9SGQ"/>
+    <prototype xmi:type="configuration:PapyrusSyncTable" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.allocation/resources/configuration/allocationTable.configuration#_j2LQIC7uEeWklMXvaoXzgQ"/>
+    <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.allocation/resources/allocation.nattableconfiguration#/"/>
+    <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_mHeJYe7eEeaYfOHEBv9SGQ" description="This provider provides the default columns for the SysML Allocation Table" name="SysMLAllocationFeatureProvider">
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_mHeJYu7eEeaYfOHEBv9SGQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.allocation/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+      </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_mHeJY-7eEeaYfOHEBv9SGQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.allocation/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Dependency/client"/>
+      </axis>
+      <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_mHeJZO7eEeaYfOHEBv9SGQ">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.sysml14.nattable.allocation/resources/allocation.nattableconfiguration#//@columnHeaderAxisConfiguration/@axisManagers.0"/>
+        <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Element/owner"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_mHeJZe7eEeaYfOHEBv9SGQ" description="This row providers allows to display all Allocation in a Table" name="SysMLAllocationProvider" disconnectSlave="true"/>
+  </nattable:Table>
+</xmi:XMI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="MacOSX-WD1000T" Modified="2560-02-13 18:04:40 +0700" ModID="EACBF5AC-B96C-4267-B329-115A600C81B7">
+    <Binder>
+        <BinderItem ID="0" UUID="03E5C14D-87FC-48B1-AD76-361B471FE2F0" Type="DraftFolder" Created="2560-02-13 12:11:09 +0700" Modified="2560-02-13 12:11:09 +0700">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="9E84300F-3810-411C-BBDB-37E3B78B20A3" Type="Text" Created="2560-02-13 12:11:09 +0700" Modified="2560-02-13 12:24:27 +0700">
+                    <Title>บทนำ</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="77CAA58F-E516-4CF3-A4CA-C750DBA10402" Type="Text" Created="2560-02-13 16:11:43 +0700" Modified="2560-02-13 18:04:40 +0700">
+                    <Title>ปัญหาหลัก</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="87E98EEB-10B5-4618-AEBD-0C082A51F2E4" Type="Text" Created="2560-02-13 16:12:04 +0700" Modified="2560-02-13 16:35:15 +0700">
+                    <Title>แนวทางแก้ปัญหา โดยโปรแกรม</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>394,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="F9E16A0C-37BE-4D7A-9248-57D66C6EA1FA" Type="Text" Created="2560-02-13 16:12:49 +0700" Modified="2560-02-13 16:49:54 +0700">
+                    <Title>กรอบเวลา</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>117,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="2F9A4C66-61A3-4613-9582-3F2583419351" Type="Text" Created="2560-02-13 16:13:15 +0700" Modified="2560-02-13 16:14:15 +0700">
+                    <Title>งบโดยประมาณ</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="D0F37D56-BB04-4D1B-8501-3CB66E817157" Type="ResearchFolder" Created="2560-02-13 12:11:09 +0700" Modified="2560-02-13 12:11:09 +0700">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="02F360B2-0CCE-4278-8537-9622922C1B36" Type="TrashFolder" Created="2560-02-13 12:11:09 +0700" Modified="2560-02-13 12:11:09 +0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="5837F27B-3C59-4C29-BF66-E185AD901F9B" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="4DAAB44C-7FC9-4235-BBC7-FD1EA7946965" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2560-02-13 12:11:02 +0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="143" Characters="682" Date="2560-02-13 16:03:35 +0700"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

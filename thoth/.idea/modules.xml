@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth-cli/thoth-cli.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth-cli/thoth-cli.iml" group="thoth-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth-cli/thoth-cli_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth-cli/thoth-cli_main.iml" group="thoth-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth-cli/thoth-cli_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth-cli/thoth-cli_test.iml" group="thoth-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth-srv/thoth-srv.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth-srv/thoth-srv.iml" group="thoth-srv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth-srv/thoth-srv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth-srv/thoth-srv_main.iml" group="thoth-srv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth-srv/thoth-srv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth-srv/thoth-srv_test.iml" group="thoth-srv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth_main.iml" group="thoth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thoth_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thoth_test.iml" group="thoth" />
+    </modules>
+  </component>
+</project>

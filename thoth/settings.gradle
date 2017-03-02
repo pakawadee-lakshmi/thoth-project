@@ -1,0 +1,4 @@
+rootProject.name = 'thoth'
+include 'thoth-srv'
+include 'thoth-cli'
+
